@@ -1,4 +1,3 @@
-def add(x,y){
-  result=x+y
-  echo "sum is $result"
+def call(name){
+  echo "sum ${name}"
 }
